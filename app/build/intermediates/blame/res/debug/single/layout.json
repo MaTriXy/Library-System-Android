@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookresults.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\bookresults.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\managesystem.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\managesystem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addbook.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\addbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inventory.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dropoff.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\dropoff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cancelhold.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\cancelhold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\createaccount.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\createaccount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loginadmin.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\loginadmin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\placehold.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\placehold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Mike\\Downloads\\Otter_Library_System\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
