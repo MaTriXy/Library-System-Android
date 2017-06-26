@@ -1,5 +1,5 @@
 # Library-System
-Library Book Checkout and Return System for Android. The library system database uses SQLite.
+Library Book Checkout and Return System for Android. The library system database uses SQLite. Features include book reservation, book inventory lookup, transaction logging of book items, and a native login system for users to sign-in with on their Android devices.
 
 Library system Main UI.
 ![screenshot_20161211-150421](https://user-images.githubusercontent.com/18353476/27512675-ee979acc-58fd-11e7-810c-8741189ee9ad.png)
