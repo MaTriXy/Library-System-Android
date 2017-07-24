@@ -8,8 +8,6 @@ A list of book's reservation transactions in the Library system inventory.
 Adding a book to the current Library system inventory.
 ![screenshot_20161211-142439](https://user-images.githubusercontent.com/18353476/27513112-5d945210-590f-11e7-9631-d226a6be1d37.png)
 
-Simply run the code in Android Studio and build for your android device for the best performance.
-
 # SQLite and Android Studio
 ![thumbnail225-1024x450](https://user-images.githubusercontent.com/18353476/28508972-9882d432-6ff3-11e7-966b-af08a68beb33.png)
 
