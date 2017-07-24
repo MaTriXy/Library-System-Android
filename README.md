@@ -11,6 +11,7 @@ Adding a book to the current Library system inventory.
 Simply run the code in Android Studio and build for your android device for the best performance.
 
 # SQLite and Android Studio
+![thumbnail225-1024x450](https://user-images.githubusercontent.com/18353476/28508972-9882d432-6ff3-11e7-966b-af08a68beb33.png)
 
 SQLite is an Open Source database. SQLite supports standard relational database features like SQL syntax, transactions and prepared statements. The database requires limited memory at runtime (approx. 250 KB) which makes it a good choice for being embedded into other runtimes. 
 
