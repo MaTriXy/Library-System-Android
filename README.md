@@ -29,4 +29,6 @@ A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.t
 ![update-channel_2x](https://user-images.githubusercontent.com/18353476/28494098-68114d94-6ed9-11e7-87d2-3c0c30e866ac.png)
 
 # Android Studio's Device Emulator
+Creating & Configuring Android Device Emulator
+![create virutal device](https://user-images.githubusercontent.com/18353476/28558055-f8d720b4-70c4-11e7-9b68-aadde703aedf.gif)
 ![android emulator2](https://user-images.githubusercontent.com/18353476/28433670-58d94f64-6d41-11e7-908c-c6a48d7b75a1.gif)
