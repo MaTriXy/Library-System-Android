@@ -17,6 +17,15 @@ SQLite is embedded into every Android device. Using an SQLite database in Androi
 
 If your application creates a database, this database is by default saved in the directory DATA/data/APP_NAME/databases/FILENAME. The parts of the above directory are constructed based on the following rules. DATA is the path which the Environment.getDataDirectory() method returns. APP_NAME is your application name. FILENAME is the name you specify in your application code for the database.
 
+# Getting Started with Android NDK
+The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/index.html) is a set of tools that allows you to use C and C++ code with Android, and provides platform libraries you can use to manage native activities and access physical device components, such as sensors and touch input. The NDK may not be appropriate for most novice Android programmers who need to use only Java code and framework APIs to develop their apps. However, the NDK can be useful for cases in which you need to do one or more of the following:
+
+  Squeeze extra performance out of a device to achieve low latency or run computationally intensive applications, such as games or  physics simulations.
+
+  Reuse your own or other developers' C or C++ libraries.
+
+Using Android Studio 2.2 and higher, you can use the NDK to compile C and C++ code into a native library and package it into your APK using Gradle, the IDE's integrated build system. Your Java code can then call functions in your native library through the Java Native Interface (JNI) framework. To learn more about Gradle and the Android build system, read Configure Your Build.
+
 # Setting up Android Studio
 You can run this application using Android Studio's Android device emulator which is heavy on system resources especially the CPU. For best performance build and run the application on your own Android phone.
 https://developer.android.com/studio/index.html
@@ -31,4 +40,6 @@ A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.t
 # Android Studio's Device Emulator
 Creating & Configuring Android Device Emulator
 ![create virutal device](https://user-images.githubusercontent.com/18353476/28558055-f8d720b4-70c4-11e7-9b68-aadde703aedf.gif)
-![android emulator2](https://user-images.githubusercontent.com/18353476/28433670-58d94f64-6d41-11e7-908c-c6a48d7b75a1.gif)
+<p align="center">
+  <img alt="[android emulator2" src="https://user-images.githubusercontent.com/18353476/28433670-58d94f64-6d41-11e7-908c-c6a48d7b75a1.gif">
+</p>
