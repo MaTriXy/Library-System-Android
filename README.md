@@ -11,7 +11,7 @@ Adding a book to the current Library system inventory.
 # SQLite and Android Studio
 ![thumbnail225-1024x450](https://user-images.githubusercontent.com/18353476/28508972-9882d432-6ff3-11e7-966b-af08a68beb33.png)
 
-SQLite is an Open Source database. SQLite supports standard relational database features like SQL syntax, transactions and prepared statements. The database requires limited memory at runtime (approx. 250 KB) which makes it a good choice for being embedded into other runtimes. 
+[SQLite](https://sqlite.org/index.html) is an Open Source database. SQLite supports standard relational database features like SQL syntax, transactions and prepared statements. The database requires limited memory at runtime (approx. 250 KB) which makes it a good choice for being embedded into other runtimes. 
 
 SQLite is embedded into every Android device. Using an SQLite database in Android does not require a setup procedure or administration of the database. You only have to define the SQL statements for creating and updating the database. Afterwards the database is automatically managed for you by the Android platform. Accessing an SQLite database involves accessing the file system which can be slow. Therefore, for good performance it is recommended to perform database operations asynchronously.
 
@@ -28,9 +28,9 @@ Using Android Studio 2.2 and higher, you can use the NDK to compile C and C++ co
 
 # Setting up Android Studio
 You can run this application using Android Studio's Android device emulator which is heavy on system resources especially the CPU. For best performance build and run the application on your own Android phone.
-https://developer.android.com/studio/index.html
 
-A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.tutorialspoint.com/android/android_studio.htm
+
+[Android Studio Setup User Guide(Windows, Mac, and Linux)](https://developer.android.com/studio/intro/index.html) 
 
 ![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
 ![creat project](https://user-images.githubusercontent.com/18353476/28494097-63a0df68-6ed9-11e7-929e-3eba9a3f6700.png)
