@@ -46,6 +46,7 @@ You can run this application using Android Studio's Android device emulator whic
 
 [Kotlin Sample Projects](https://developer.android.com/samples/?language=kotlin)
 
+![kotlin support android](https://user-images.githubusercontent.com/18353476/39689086-3452b5e4-518a-11e8-9082-00f844205962.png)
 
 # Getting Started with Android NDK
 The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/index.html) is a set of tools that allows you to use C and C++ code with Android, and provides platform libraries you can use to manage native activities and access physical device components, such as sensors and touch input. The NDK may not be appropriate for most novice Android programmers who need to use only Java code and framework APIs to develop their apps. However, the NDK can be useful for cases in which you need to do one or more of the following:
