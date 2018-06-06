@@ -46,6 +46,10 @@ You can run this application using Android Studio's Android device emulator whic
 
 [Kotlin Sample Projects](https://developer.android.com/samples/?language=kotlin)
 
+[Kotlin Online IDE](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)
+
+[Kotlinlang on Slack](https://kotlinslack.herokuapp.com/)
+
 ![kotlin support android](https://user-images.githubusercontent.com/18353476/39689086-3452b5e4-518a-11e8-9082-00f844205962.png)
 
 # Getting Started with Android NDK
