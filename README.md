@@ -62,7 +62,16 @@ The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/inde
 Using Android Studio 2.2 and higher, you can use the NDK to compile C and C++ code into a native library and package it into your APK using Gradle, the IDE's integrated build system. Your Java code can then call functions in your native library through the Java Native Interface (JNI) framework. To learn more about Gradle and the Android build system, read Configure Your Build.
 
 # Android Studio's Device Emulator
-Creating & Configuring Android Device Emulator
+[Running apps on the Android Emulator](https://developer.android.com/studio/run/emulator)
+
+The Android Emulator doesn't include virtual hardware for the following:
+
+    Bluetooth
+    NFC
+    SD card insert/eject
+    Device-attached headphones
+    USB
+
 ![create virutal device](https://user-images.githubusercontent.com/18353476/28558055-f8d720b4-70c4-11e7-9b68-aadde703aedf.gif)
 
 
