@@ -31,6 +31,8 @@ You can run this application using Android Studio's Android device emulator whic
 
 [Publishing App on Android](https://developer.android.com/studio/publish/index.html)
 
+[Known issues with Android Studio and Android Gradle Plugin](https://developer.android.com/studio/known-issues)
+
 ![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
 ![creat project](https://user-images.githubusercontent.com/18353476/28494097-63a0df68-6ed9-11e7-929e-3eba9a3f6700.png)
 ![instant-apps_2x](https://user-images.githubusercontent.com/18353476/28494126-680f3a4e-6eda-11e7-9235-0cd1b4bdf408.png)
@@ -45,6 +47,8 @@ You can run this application using Android Studio's Android device emulator whic
 [Getting started with Android and Kotlin](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
 
 [Kotlin Sample Projects](https://developer.android.com/samples/?language=kotlin)
+
+[Known issues with Kotlin in Android Studio](https://developer.android.com/studio/preview/kotlin-issues)
 
 [Kotlin Online IDE](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)
 
